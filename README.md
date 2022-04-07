@@ -65,7 +65,7 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 
   </div>
 
-<img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/master/img/mario.gif"/>
+<img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"/>
     
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
