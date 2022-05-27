@@ -7,6 +7,7 @@
 <p> Com quase 5 anos de experiência Trabalhando com programação. 
 Trabalhei com NodeJs e Php no Back-end e ReactJs, NextJs e VueJs para o Front-end. 
 Desenvolvendo diversos trabalhos como freelancer nos tempos livres. Estou me dedicando aos estudos da língua inglesa, estrutura de código e performance, pois sei que esse conhecimento é importante para meu desenvolvimento profissional. 
+Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, tenho a certeza de que irei somar junto a empresa. 
 </p>
 
 <a href="https://www.linkedin.com/in/afonso-bezerra-33b495174/" target="_blank">
@@ -39,7 +40,7 @@ Desenvolvendo diversos trabalhos como freelancer nos tempos livres. Estou me ded
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
 |**Linguagem / IDE** | <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> |
-| **API** | <img align="center" alt="RESTFULL_API" height="30" src="https://img.shields.io/badge/API_RestFull-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white">|
+| **API** | <img align="center" alt="RESTFULL_API" height="30" src="https://img.shields.io/badge/API_RestFull-527a7a?&style=for-the-badge&logo=RestApi&logoColor=white"> <img align="center" alt="GRAPHQL" height="30" src="https://img.shields.io/badge/GRAPHQL-FF00EC?&style=for-the-badge&logo=RestApi&logoColor=white">|
 |**Conhecimento / Uso** | <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="HEROKU" height="30" src="https://img.shields.io/badge/heroku-0d1533?&style=for-the-badge&logo=heroku&logoColor=white"> <img align="center" alt="VERCEL" height="30" src="https://img.shields.io/badge/Vercel-0047b3?&style=for-the-badge&logo=Vercel&logoColor=white"> <img align="center" alt="NETLIFY" height="30" src="https://img.shields.io/badge/netlify-007294?&style=for-the-badge&logo=netlify&logoColor=white"> <img align="center" alt="GITHUB" height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">|
 |**Database** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="SQLITE" height="30"  src="https://img.shields.io/badge/Sqlite-862d59?style=for-the-badge&logo=Sqlite&logoColor=white"> <img align="center" alt="POSTGRESQL" height="30"  src="https://img.shields.io/badge/Postgresql-790036?&style=for-the-badge&logo=PostgreSql&logoColor=white">|
  | **Style** |  <img align="center" alt="STYLEDCOMPONENTS" height="30" src="https://img.shields.io/badge/styledcomponents-530078?&style=for-the-badge&logo=styledcomponents&logoColor=white"> <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
@@ -49,17 +50,26 @@ Desenvolvendo diversos trabalhos como freelancer nos tempos livres. Estou me ded
 
 </div>
 <h2></h2>
- <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif" alt="image" align="center" height="100%"/>
 
 <div align="center">
   <a href="https://github.com/AfonsoBezerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfonsoBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoBezerra&layout=compact&langs_count=7&theme=dracula"/>               </div>                     
 
-<h2></h2>    
+<h2></h2>
+    <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"/>
+    
  <div align="center">
     
    ![Snake animation](https://github.com/AfonsoBezerra/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   </div>
+
+
+    
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/AfonsoBezerra/count.svg"/>
+</p>
+      
   
