@@ -58,7 +58,7 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 
 <h2></h2>
    
-   <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif" heigth="200" align="center" alt="MARIO"/>
+   <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif" height="100%"  align="center" alt="MARIO"/>
     
  <div align="center">
     
