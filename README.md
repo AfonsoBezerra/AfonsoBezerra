@@ -57,7 +57,7 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoBezerra&layout=compact&langs_count=7&theme=dracula"/>               </div>                     
 <h2></h2>
    
-     <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"  height="180em" alt="MARIO"/>
+<!--      <img src="./img/mario.gif"  height="100%" alt="MARIO"/> -->
     
  <div align="center">
  
