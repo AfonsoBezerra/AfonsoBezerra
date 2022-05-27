@@ -57,7 +57,7 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoBezerra&layout=compact&langs_count=7&theme=dracula"/>               </div>                     
 
 <h2></h2>
-    <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"/>
+    <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif" heigth="100%" align="center"/>
     
  <div align="center">
     
@@ -65,11 +65,4 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 
   </div>
 
-
-    
-  <h3><p align="center">Total de visitas no perfil:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/AfonsoBezerra/count.svg"/>
-</p>
-      
   
