@@ -7,7 +7,6 @@
 <p> Com quase 5 anos de experiência Trabalhando com programação. 
 Trabalhei com NodeJs e Php no Back-end e ReactJs, NextJs e VueJs para o Front-end. 
 Desenvolvendo diversos trabalhos como freelancer nos tempos livres. Estou me dedicando aos estudos da língua inglesa, estrutura de código e performance, pois sei que esse conhecimento é importante para meu desenvolvimento profissional. 
-Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, tenho a certeza de que irei somar junto a empresa. 
 </p>
 
 <a href="https://www.linkedin.com/in/afonso-bezerra-33b495174/" target="_blank">
@@ -50,26 +49,17 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 
 </div>
 <h2></h2>
+ <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif" alt="image" align="center" height="100%"/>
 
 <div align="center">
   <a href="https://github.com/AfonsoBezerra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfonsoBezerra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoBezerra&layout=compact&langs_count=7&theme=dracula"/>               </div>                     
 
-<h2></h2>
-    <img src="https://github.com/AfonsoBezerra/AfonsoBezerra/blob/main/img/mario.gif"/>
-    
+<h2></h2>    
  <div align="center">
     
    ![Snake animation](https://github.com/AfonsoBezerra/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   </div>
-
-
-    
-  <h3><p align="center">Total de visitas no perfil:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/AfonsoBezerra/count.svg"/>
-</p>
-      
   
