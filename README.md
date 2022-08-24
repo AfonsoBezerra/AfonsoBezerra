@@ -1,8 +1,3 @@
-<!--
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador">
--->
-<img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png">
-
 <h1 align="center">Bem vindo 🖖🏽</h1>
 <p>
 Trabalhei com NodeJs e Php no Back-end e ReactJs, NextJs e VueJs para o Front-end. 
