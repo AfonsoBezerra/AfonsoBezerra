@@ -49,12 +49,12 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
                 
 <h2></h2>
    
-<!--      <img src="./img/mario.gif"  height="100%" alt="MARIO"/> -->
+     <img src="./img/mario.gif"  height="100%" alt="MARIO"/>
     
- <div align="center">
+<!--  <div align="center">
  
    ![Snake animation](https://github.com/AfonsoBezerra/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-  </div>
+  </div> -->
 
   
