@@ -42,14 +42,14 @@ Sou amante da tecnologia e, neste momento, estou em busca de uma oportunidade, t
 |**Os** | <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/windows-862d59?style=for-the-badge&logo=windows&logoColor=white"> <img align="center" alt="Mac" height="30" src="https://img.shields.io/badge/mac-65557A?style=for-the-badge&logo=apple&logoColor=white">|
 |**Most used Frameworks** | <img align="center" alt="NEXTJS" height="30"  src="https://img.shields.io/badge/nextjs-black?&style=for-the-badge&logo=next.js&logoColor=white">  |
 |**Main Languages** | <img align="center" alt="Javascript" height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img align="center" alt="NODEJS" height="30"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img align="center" alt="PHPLaravel" height="30"  src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">|
-
+ <img src="./img/mario.gif"  height="100%" alt="MARIO"/>
 </div>
 <h2></h2>
 
                 
 <h2></h2>
    
-     <img src="./img/mario.gif"  height="100%" alt="MARIO"/>
+    
     
 <!--  <div align="center">
  
